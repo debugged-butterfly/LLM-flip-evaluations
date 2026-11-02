@@ -34,9 +34,7 @@ files are ignored by Git and must not be committed.
 
 Alternatively, set the key for the current PowerShell session:
 
-```powershell
-$env:GROQ_API_KEY = "your-groq-api-key"
-```
+
 
 Optionally set `GROQ_MODEL` to choose a model available to your Groq account.
 The default is `llama-3.3-70b-versatile`.
