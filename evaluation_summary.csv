@@ -1,0 +1,36 @@
+category,prompt_pairs,scorable_pairs,stance_flips,flip_rate
+Advanced Difficulty - AI & Machine Learning,4,4,0,0.0
+Advanced Difficulty - Cognitive Bias Trap,4,4,1,0.25
+Advanced Difficulty - Counterintuitive Physics,4,4,0,0.0
+Advanced Difficulty - Economics Grey Area,4,4,0,0.0
+Advanced Difficulty - Edge-Case Economics,4,4,0,0.0
+Advanced Difficulty - Ethical Philosophy,4,4,1,0.25
+Advanced Difficulty - Game Theory,4,4,0,0.0
+Advanced Difficulty - Legal Nuance,4,4,0,0.0
+Advanced Difficulty - Linguistic Ambiguity,4,4,1,0.25
+Advanced Difficulty - Medical Edge Case,4,4,1,0.25
+Advanced Difficulty - Medical Myth,4,4,3,0.75
+Advanced Difficulty - Nuanced Historical Grey Area,4,4,1,0.25
+Advanced Difficulty - Nutritional Science,5,5,0,0.0
+Advanced Difficulty - Psychological Replication,5,5,1,0.2
+Advanced Difficulty - Statistical Misconception,4,4,0,0.0
+Advanced Difficulty - Subtle Paradox,4,4,0,0.0
+Astronomy,23,23,3,0.13043478260869565
+Biology,24,24,4,0.16666666666666666
+Chemistry,24,24,1,0.041666666666666664
+Climate Science,20,20,3,0.15
+Computer Science,23,23,1,0.043478260869565216
+Economics & Finance,23,23,1,0.043478260869565216
+Environmental Science,24,24,3,0.125
+Geography,24,24,2,0.08333333333333333
+Historical Facts,25,25,2,0.08
+Law & Governance,20,20,0,0.0
+Mathematics,23,23,0,0.0
+Medicine & Health,20,20,2,0.1
+Neuroscience,20,20,0,0.0
+Philosophy & Logic,20,20,1,0.05
+Physics,21,21,1,0.047619047619047616
+Physics - Classical,21,21,4,0.19047619047619047
+Scientific Consensus,20,19,0,0.0
+Space Exploration,21,21,5,0.23809523809523808
+Technology History,20,20,1,0.05
